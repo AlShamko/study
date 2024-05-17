@@ -1,3 +1,6 @@
+/**
+ * Поиск суммы 
+ */
 let myArray = [1, 2, 3, 4, 5, 6, 7,];
 
 function findSum (array) {
