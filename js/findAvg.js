@@ -11,7 +11,9 @@ function findAvg (array) {
 	}
 	let result = array.length ? sum / array.length : 0
 
-	console.log(result)
+	return result
 }
 
-findAvg (myArray)
+const avg = findAvg(myArray)
+
+console.log(avg)
