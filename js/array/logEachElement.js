@@ -10,5 +10,5 @@ function logEachElement(array) {
 	}
 }
 
-logEachElement(myArray);
 
+logEachElement(myArray);
